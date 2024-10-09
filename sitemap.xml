@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://myslogan.com/c46e3bfb/</loc>
+    <loc>https://myslogan.com/cf163cab/</loc>
     
     <lastmod>2024-10-09</lastmod>
     
@@ -12,6 +12,15 @@
   
   <url>
     <loc>https://myslogan.com/3e44ecdb/</loc>
+    
+    <lastmod>2024-10-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://myslogan.com/c46e3bfb/</loc>
     
     <lastmod>2024-10-09</lastmod>
     
@@ -38,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://myslogan.com/tags/index.html</loc>
+    <loc>https://myslogan.com/share/index.html</loc>
     
     <lastmod>2024-10-09</lastmod>
     
@@ -47,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://myslogan.com/share/index.html</loc>
+    <loc>https://myslogan.com/tags/index.html</loc>
     
     <lastmod>2024-10-09</lastmod>
     
