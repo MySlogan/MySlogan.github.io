@@ -1,0 +1,16 @@
+# welcome to : www.marxcbr.cn
+User-agent: *
+Allow: /
+Allow: /share/
+Allow: /archives/
+Allow: /tags/
+Allow: /link/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /lib/
+
+Sitemap: https://myslogan.life/share/sitemap.xml
+Sitemap: https://myslogan.life/share/baidusitemap.xml
