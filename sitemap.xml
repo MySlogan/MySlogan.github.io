@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.myslogan.life/506e6e4a/</loc>
+    <loc>https://www.myslogan.life/49f6ee02/</loc>
     
     <lastmod>2024-10-25</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.myslogan.life/49f6ee02/</loc>
+    <loc>https://www.myslogan.life/506e6e4a/</loc>
     
     <lastmod>2024-10-25</lastmod>
     
@@ -65,6 +65,24 @@
   </url>
   
   <url>
+    <loc>https://www.myslogan.life/share/index.html</loc>
+    
+    <lastmod>2024-10-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.myslogan.life/tags/index.html</loc>
+    
+    <lastmod>2024-10-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.myslogan.life/about/index.html</loc>
     
     <lastmod>2024-10-25</lastmod>
@@ -83,16 +101,7 @@
   </url>
   
   <url>
-    <loc>https://www.myslogan.life/share/index.html</loc>
-    
-    <lastmod>2024-10-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.myslogan.life/tags/index.html</loc>
+    <loc>https://www.myslogan.life/aa5ad583/</loc>
     
     <lastmod>2024-10-25</lastmod>
     
